@@ -23,7 +23,9 @@ This repository does **not** provide login services, accounts, downloads, or off
 
 Related independent information website:
 
-👉 https://bdg-game-login.net/
+👉 Website: https://bdg-game-login.net/
+
+About: https://bdg-game-login.net/about/
 
 The website expands on the same topics in a user-friendly format, including:
 - Login help guides
