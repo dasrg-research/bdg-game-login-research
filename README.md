@@ -50,12 +50,11 @@ All content is intended for **educational and risk-awareness purposes only**.
 
 ## 📌 Why This Repository Exists
 
-Search queries such as *“BDG Game login”* often expose users to:
+Search queries such as “BDG Game login” consistently surface high-risk pages due to frequent domain changes and cloned landing pages.
 - Fake login pages
 - Phishing attempts
 - Unsafe APK downloads
 - Social engineering scams
-
 This repository exists to document patterns and help users better understand how to protect themselves online.
 
 ---
@@ -63,3 +62,5 @@ This repository exists to document patterns and help users better understand how
 ## 📄 License
 
 Content is provided for informational use. No warranty is expressed or implied.
+_Last updated: January 2026_
+
